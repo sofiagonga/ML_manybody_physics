@@ -1,0 +1,12 @@
+.idea/
+.ipynb_checkpoints/
+__pycache__/
+qtpi.egg-info/
+.vscode
+.python-version
+.tox
+.DS_Store
+docs/source/*.rst
+venv
+.project
+.pydevproject
